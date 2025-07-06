@@ -1,0 +1,13 @@
+```
+Complaint ID,Product,Consumer complaint narrative,Submission date
+123456,Credit Card,i was charged an unexpected fee of 35 dollars on my credit card statement i contacted customer service but they were unhelpful and refused to refund the fee,2025-01-15
+789012,Personal Loan,the interest rate on my loan was higher than advertised i was quoted 5 percent but my statement shows 7 percent causing higher payments,2025-02-03
+345678,Buy Now Pay Later,i made a payment on time for my bnpl purchase but the system marked it as late and added a penalty fee of 20 dollars,2025-03-10
+901234,Savings Account,my savings account was charged a maintenance fee despite meeting the minimum balance requirement the bank has not resolved this,2025-04-22
+567890,Money Transfer,i sent 500 dollars through a money transfer service but the recipient never received it and the company has not responded to my inquiries,2025-05-30
+234567,Credit Card,there was a fraudulent charge on my card for 200 dollars i reported it immediately but the resolution process is taking too long,2025-06-12
+890123,Personal Loan,i applied for a loan but the approval process was delayed for weeks causing me to miss a payment deadline for another bill,2025-01-20
+456789,Buy Now Pay Later,the bnpl provider changed the payment schedule without notifying me leading to a missed payment and extra fees,2025-02-28
+012345,Savings Account,interest was not credited to my savings account as promised the advertised rate was 2 percent but i received no interest,2025-03-15
+678901,Money Transfer,there was an error in my money transfer transaction and the funds were sent to the wrong account i need a refund,2025-04-05
+```
