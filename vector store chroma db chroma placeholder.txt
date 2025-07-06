@@ -1,0 +1,24 @@
+Collection Name: complaints
+Number of Chunks: ~10–12 (most narratives are <500 characters, so 1 chunk each)
+Embedding Model: sentence-transformers/all-MiniLM-L6-v2 (384-dimensional vectors)
+
+Sample Entries (Documents and Metadata):
+1. Chunk ID: 123456_0
+   Complaint ID: 123456
+   Product: Credit Card
+   Document: i was charged an unexpected fee of 35 dollars on my credit card statement i contacted customer service but they were unhelpful and refused to refund the fee
+   Metadata: {"complaint_id": "123456", "product": "Credit Card", "chunk_id": "123456_0"}
+
+2. Chunk ID: 789012_0
+   Complaint ID: 789012
+   Product: Personal Loan
+   Document: the interest rate on my loan was higher than advertised i was quoted 5 percent but my statement shows 7 percent causing higher payments
+   Metadata: {"complaint_id": "789012", "product": "Personal Loan", "chunk_id": "789012_0"}
+
+3. Chunk ID: 345678_0
+   Complaint ID: 345678
+   Product: Buy Now Pay Later
+   Document: i made a payment on time for my bnpl purchase but the system marked it as late and added a penalty fee of 20 dollars
+   Metadata: {"complaint_id": "345678", "product": "Buy Now Pay Later", "chunk_id": "345678_0"}
+
+[Additional entries for Complaint IDs 901234, 567890, 234567, 890123, 456789, 012345, 678901 follow a similar structure, omitted for brevity.]
