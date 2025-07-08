@@ -1,6 +1,10 @@
 10 Academy KAIM Week 6: Intelligent Complaint Analysis Chatbot
+
 Project Overview
+
 This repository contains the final submission for the 10 Academy KAIM Week 6 challenge, delivering a Retrieval-Augmented Generation (RAG)-powered chatbot for CredTrust Financial. The chatbot processes CFPB complaint data across Credit Cards, Personal Loans, Buy Now Pay Later (BNPL), Savings Accounts, and Money Transfers, providing actionable insights. Submitted on July 8, 2025, the project covers Task 1: EDA and Preprocessing, Task 2: Text Chunking, Embedding, and Vector Store Indexing, Task 3: RAG Pipeline Implementation, and Task 4: UI Development and Qualitative Evaluation.
+
+
 Repository Structure
 
 data/:
